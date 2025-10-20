@@ -1,0 +1,33 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>[RECIPIE NAME]</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>[RECIPE NAME]</h1>
+    <p>[INTRODUCTION/DESCRIPTION OF RECIPE]</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>ing1</li>
+      <li>ing2</li>
+      <li>ing3</li>
+      <li>ing4</li>
+    </ul>
+    
+    <h2>Instructions</h2>
+    <ol>
+      <li>s1</li>
+      <li>s2</li>
+      <li>s3</li>
+      <li>s4</li>
+    </ol>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Add apt img and name">
+
+  </body>
+</html>
+
+** end of index.html **
+
